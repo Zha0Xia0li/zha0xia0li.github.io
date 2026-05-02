@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://blog.zhaoxiao.li"
+url: "https://blog.zhaoxiaoli.cn"
 
 github:
   username: zha0x1a0l1 # change to your GitHub username
@@ -39,7 +39,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://zhaoxiao.li # change to your Twitter homepage
+    - https://zhaoxiaoli.cn # change to your Twitter homepage
     - https://github.com/zha0x1a0l1 # change to your GitHub homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/zhaoxiaoli
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://zhaoxiao.li/images/head.jpg
+avatar: https://zhaoxiaoli.cn/images/head.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
