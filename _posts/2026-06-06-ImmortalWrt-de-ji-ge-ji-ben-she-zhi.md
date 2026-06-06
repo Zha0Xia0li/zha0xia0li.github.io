@@ -10,7 +10,7 @@ tags:
 - openWRT
 - 上网
 ---
-最近折腾ImmortalWrt，遇到ge坑，稍微折腾了下，这里用于记录！
+最近折腾ImmortalWrt，遇到个坑，稍微折腾了下，这里用于记录！
 1)这里要设置网关，指向主路由。
 ![](/assets/images/2026/06/06-1.png)
 2)DNS服务器同样指向主路由
