@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://blog.zhaoxiaoli.cn"
 
 github:
-  username: zha0x1a0l1 # change to your GitHub username
+  username: zha0xia0li # change to your GitHub username
 
 twitter:
-  username: zha0x1a0l1 # change to your Twitter username
+  username: zha0xia0li # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -40,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://zhaoxiaoli.cn # change to your Twitter homepage
-    - https://github.com/zha0x1a0l1 # change to your GitHub homepage
+    - https://github.com/zha0xia0li # change to your GitHub homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/zhaoxiaoli
     # - https://www.linkedin.com/in/username
