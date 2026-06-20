@@ -2,11 +2,11 @@
 
 - type: twitter
   icon: "fab fa-twitter"
-  url:  'https://x.com/Zha0X1a0l1'
+  url:  'https://x.com/Zha0Xia0li'
 
 #- type: weibo
 #  icon: "fa-brands fa-weibo"
-#  url:  'https://weibo.com/zha0x1a0l1'
+#  url:  'https://weibo.com/zha0xia0li'
 
 - type: facebook
   icon: "fa-brands fa-facebook"
@@ -14,7 +14,7 @@
 
 - type: telegram
   icon: "fa-brands fa-telegram"
-  url:  'https://t.me/Zha0X1a0l1'
+  url:  'https://t.me/Zha0Xia0li'
 
 - type: email
   icon: "fas fa-envelope"
