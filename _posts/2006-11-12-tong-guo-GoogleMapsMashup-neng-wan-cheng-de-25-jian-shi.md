@@ -53,7 +53,7 @@ tags:
 
 20. 做出自己谷歌mashup地图 [http://www.eemap.org](http://www.eemap.org) http://www.communitywalk.com
 
-21. 避免交警探头[url=http://www.photoenforced.com/us.html
+21. 避免交警探头 [http://www.photoenforced.com/us.html](http://www.photoenforced.com/us.html)
 
 22. 寻找廉价加油站 [http://www.mapgasprices.com](http://www.mapgasprices.com)
 

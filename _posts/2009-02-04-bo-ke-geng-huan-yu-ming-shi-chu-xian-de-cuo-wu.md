@@ -11,7 +11,7 @@ tags:
 - 数据库
 ---
 上次博客[更换域名](http://blog.zhaoxiao.li/2009/01/18/how-to-change-wordpress-blog-url/)时，数据库全部替换后，博客顶部出现了类似
-	- [b]Warning[/b]: Invalid argument supplied for foreach() in [b]/home/blog.zhaoxiao.li/domains/3dian9.host9.meyu.net/public_html/wp-includes/widgets.php[/b] on line [b]676[/b]
+	- **Warning**: Invalid argument supplied for foreach() in **/home/blog.zhaoxiao.li/domains/3dian9.host9.meyu.net/public_html/wp-includes/widgets.php** on line **676**
 
 的错误，一直显示在页面顶部，FTP删掉所有插件也都不惯用，并且不能登录到博客后台。
 解决方法：
